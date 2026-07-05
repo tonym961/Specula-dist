@@ -1,8 +1,8 @@
 {
-  "versionCode": 8,
-  "versionName": "0.8",
-  "apkUrl": "https://github.com/tonym961/Specula-dist/releases/download/v0.8/Specula-0.8.apk",
-  "notes": "Scroll & right-click gestures, virtual keys, clipboard sync, full-screen, Wake-on-LAN, import/export.",
+  "versionCode": 9,
+  "versionName": "0.9",
+  "apkUrl": "https://github.com/tonym961/Specula-dist/releases/download/v0.9/Specula-0.9.apk",
+  "notes": "Protocol selector (VNC/RDP). RDP experimental: connection + security negotiation (reachability/NLA probe). VNC unchanged.",
   "mandatory": false,
-  "sha256": "f07ab9c50d4a5decd078724b9f3c572e971656ceb8e44d0df78a749849b46c47"
+  "sha256": "fda94aeac70fbe661bbae2cdaa5535129eb5543f5d4dccdc0784528e7dc46deb"
 }
