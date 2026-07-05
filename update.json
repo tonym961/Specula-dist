@@ -1,8 +1,8 @@
 {
-  "versionCode": 11,
-  "versionName": "0.11",
-  "apkUrl": "https://github.com/tonym961/Specula-dist/releases/download/v0.11/Specula-0.11.apk",
-  "notes": "Fixes the freeze/close when touching the screen; no stuck modifier keys; refreshed UI.",
+  "versionCode": 12,
+  "versionName": "0.12",
+  "apkUrl": "https://github.com/tonym961/Specula-dist/releases/download/v0.12/Specula-0.12.apk",
+  "notes": "First-connect fix, Italian, visible mouse pointer, fullscreen of the selected monitor.",
   "mandatory": false,
-  "sha256": "81bd5ddd4b38ad31cb594d52f430445b8ce2f5d0ef4e03142f543729c8ddddad"
+  "sha256": "2e0cf01c3841d95974b04913767c5cc33f47fb42aeece710b75932f1255d9a9c"
 }
