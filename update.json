@@ -1,0 +1,8 @@
+{
+  "versionCode": 6,
+  "versionName": "0.6",
+  "apkUrl": "https://github.com/tonym961/Specula-dist/releases/download/v0.6/Specula-0.6.apk",
+  "notes": "Self-update test build (0.5 -> 0.6).",
+  "mandatory": false,
+  "sha256": "02ca625c2bc9aad6267df6e92a92e3277cd6d3ba0fb97266876f476a35c04747"
+}
