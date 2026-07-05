@@ -1,8 +1,8 @@
 {
-  "versionCode": 9,
-  "versionName": "0.9",
-  "apkUrl": "https://github.com/tonym961/Specula-dist/releases/download/v0.9/Specula-0.9.apk",
-  "notes": "Protocol selector (VNC/RDP). RDP experimental: connection + security negotiation (reachability/NLA probe). VNC unchanged.",
+  "versionCode": 10,
+  "versionName": "0.10",
+  "apkUrl": "https://github.com/tonym961/Specula-dist/releases/download/v0.10/Specula-0.10.apk",
+  "notes": "Critical fix: no more freeze/close when touching the remote screen. Plus a refreshed UI.",
   "mandatory": false,
-  "sha256": "fda94aeac70fbe661bbae2cdaa5535129eb5543f5d4dccdc0784528e7dc46deb"
+  "sha256": "cab07d1bb8ea7c6d7177343b6eaa26e16810d82152bda389c27749e4dbff84e3"
 }
