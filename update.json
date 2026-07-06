@@ -1,8 +1,8 @@
 {
-  "versionCode": 16,
-  "versionName": "0.16",
-  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.16.apk",
-  "notes": "Set the monitor count per Mac (profile) for an exact single-screen split on multi-monitor setups.",
+  "versionCode": 17,
+  "versionName": "0.17",
+  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.17.apk",
+  "notes": "Single monitor now shows ONLY that screen (neighbours blacked out); Fit toggles one monitor vs whole desktop.",
   "mandatory": false,
-  "sha256": "5b915f92058be9fc35c44853e1bce344521da1193704f17ab273b29752883480"
+  "sha256": "88d14085445aab0355a273ccf29c0677ad46c861f08bdc299456261ff733bc17"
 }
