@@ -1,8 +1,8 @@
 {
-  "versionCode": 15,
-  "versionName": "0.15",
-  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.15.apk",
-  "notes": "One clean screen on multi-monitor Macs, smoother updates (request-ahead + buffer reuse), per-type icons.",
+  "versionCode": 16,
+  "versionName": "0.16",
+  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.16.apk",
+  "notes": "Set the monitor count per Mac (profile) for an exact single-screen split on multi-monitor setups.",
   "mandatory": false,
-  "sha256": "9712a896811b9600dff949b0f2a6ae8f984c98942222361d4a8c8d83f4891a03"
+  "sha256": "5b915f92058be9fc35c44853e1bce344521da1193704f17ab273b29752883480"
 }
