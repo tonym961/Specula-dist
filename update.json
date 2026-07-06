@@ -1,8 +1,8 @@
 {
-  "versionCode": 22,
-  "versionName": "0.22",
-  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.22.apk",
-  "notes": "Server list: online status dots, favorites, and search.",
+  "versionCode": 23,
+  "versionName": "0.23",
+  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.23.apk",
+  "notes": "New VPN networks section: configure ZeroTier networks and pick one per server (tunnel wiring next).",
   "mandatory": false,
-  "sha256": "34395b12cf98356082e0cf854bc39100690e7040bd3314d97d640e8ddb76eb4d"
+  "sha256": "96436dbf07eceb569c83bd211b621b054ae95d42b385ab5284a35ca87c5ab8ad"
 }
