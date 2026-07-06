@@ -1,8 +1,8 @@
 {
-  "versionCode": 17,
-  "versionName": "0.17",
-  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.17.apk",
-  "notes": "Single monitor now shows ONLY that screen (neighbours blacked out); Fit toggles one monitor vs whole desktop.",
+  "versionCode": 18,
+  "versionName": "0.18",
+  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.18.apk",
+  "notes": "Mouse mode (relative cursor) is now the default; the session bar scrolls in portrait so no button (e.g. keyboard) is hidden; fixed accidental drag-lock in mouse mode.",
   "mandatory": false,
-  "sha256": "88d14085445aab0355a273ccf29c0677ad46c861f08bdc299456261ff733bc17"
+  "sha256": "88cbdf4bf45c18aa1b6f7b7c49fda9dcc56628f3dab062c73ea674ff9771ed6e"
 }
