@@ -1,8 +1,8 @@
 {
-  "versionCode": 21,
-  "versionName": "0.21",
-  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.21.apk",
-  "notes": "New minimal app icon (Specula eye on deep navy).",
+  "versionCode": 22,
+  "versionName": "0.22",
+  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.22.apk",
+  "notes": "Server list: online status dots, favorites, and search.",
   "mandatory": false,
-  "sha256": "6ccf8f5396d716cd55f819cdcaa092385c70d7a50e88816a02e2f9d4d08a4270"
+  "sha256": "34395b12cf98356082e0cf854bc39100690e7040bd3314d97d640e8ddb76eb4d"
 }
