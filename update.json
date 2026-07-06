@@ -1,8 +1,8 @@
 {
-  "versionCode": 31,
-  "versionName": "0.31",
-  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.31.apk",
-  "notes": "Barra di navigazione in basso (Server, Rete, VPN, Impostazioni). Set Inform piu robusto (piu credenziali, doppio invio, verifica).",
+  "versionCode": 32,
+  "versionName": "0.32",
+  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.32.apk",
+  "notes": "Sezione UniFi: collega il controller (URL + API key nelle Impostazioni) e vedi tutti i dispositivi e i client.",
   "mandatory": false,
-  "sha256": "df34334722c523a6d6127c0866c0ce95e0905675d30b6a27b6ffa73c7ee40474"
+  "sha256": "6ff25b75bf1124d09731237cbc068d6e565a62ee01fe8edb426da25b6a0cce5f"
 }
