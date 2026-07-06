@@ -1,8 +1,8 @@
 {
-  "versionCode": 24,
-  "versionName": "0.24",
-  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.24.apk",
-  "notes": "ZeroTier integrato: assegna una rete VPN a un server e Specula la attiva alla connessione, la stacca a fine sessione. + Changelog all'aggiornamento.",
+  "versionCode": 25,
+  "versionName": "0.25",
+  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.25.apk",
+  "notes": "Scansione QR: aggiungendo una rete ZeroTier puoi inquadrare il QR per inserire il Network ID al volo.",
   "mandatory": false,
-  "sha256": "73d39dca54255b4c1b309fdee4f02a0ccc0f3aaf6166b5bb1f9dcf73ea3c64c9"
+  "sha256": "1105b6588999d89e1f6bdd689d8dbc969ab3d24ea756056769b4d8d331c0de10"
 }
