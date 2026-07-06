@@ -1,8 +1,8 @@
 {
-  "versionCode": 28,
-  "versionName": "0.28",
-  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.28.apk",
-  "notes": "Strumenti di rete → UBNT: scopre i dispositivi Ubiquiti in rete (UniFi/EdgeMax/airMAX) e li apri con un tocco.",
+  "versionCode": 29,
+  "versionName": "0.29",
+  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.29.apk",
+  "notes": "Ubiquiti: Set Inform per adottare i dispositivi (URL modificabile, default nelle Impostazioni). Icone per tipo (AP/switch/gateway/camera). Schermata Impostazioni.",
   "mandatory": false,
-  "sha256": "f161a64900d4cd80d1ec6660985aa6335025c1380b831dd9199226fb8b43cd16"
+  "sha256": "50066126d493e6819c2ead2cb1e873f3a8e55c792d6bc4e9a8e32897f1d821b5"
 }
