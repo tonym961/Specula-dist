@@ -1,8 +1,8 @@
 {
-  "versionCode": 29,
-  "versionName": "0.29",
-  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.29.apk",
-  "notes": "Ubiquiti: Set Inform per adottare i dispositivi (URL modificabile, default nelle Impostazioni). Icone per tipo (AP/switch/gateway/camera). Schermata Impostazioni.",
+  "versionCode": 30,
+  "versionName": "0.30",
+  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.30.apk",
+  "notes": "Rinominata scheda Ubiquiti; puoi scansionare (LAN e Ubiquiti) anche una sottorete diversa da quella a cui sei connesso.",
   "mandatory": false,
-  "sha256": "50066126d493e6819c2ead2cb1e873f3a8e55c792d6bc4e9a8e32897f1d821b5"
+  "sha256": "807d4810512e5347794aec28243ca0875e972909b7c03e10c5b775ae72f2f0c2"
 }
