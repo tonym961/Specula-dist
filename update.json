@@ -1,8 +1,8 @@
 {
-  "versionCode": 18,
-  "versionName": "0.18",
-  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.18.apk",
-  "notes": "Mouse mode (relative cursor) is now the default; the session bar scrolls in portrait so no button (e.g. keyboard) is hidden; fixed accidental drag-lock in mouse mode.",
+  "versionCode": 19,
+  "versionName": "0.19",
+  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.19.apk",
+  "notes": "Removed the connection-name label from the session bar so the tools (keyboard included) are reachable in portrait; a small colored dot still shows connection status.",
   "mandatory": false,
-  "sha256": "88cbdf4bf45c18aa1b6f7b7c49fda9dcc56628f3dab062c73ea674ff9771ed6e"
+  "sha256": "216197c0eb880f498b7567907d763a691e8294e48e4b660647c538053179e178"
 }
