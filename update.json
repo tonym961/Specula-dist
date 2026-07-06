@@ -1,8 +1,8 @@
 {
-  "versionCode": 32,
-  "versionName": "0.32",
-  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.32.apk",
-  "notes": "Sezione UniFi: collega il controller (URL + API key nelle Impostazioni) e vedi tutti i dispositivi e i client.",
+  "versionCode": 33,
+  "versionName": "0.33",
+  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.33.apk",
+  "notes": "Net Swiss Army Knife: strumenti di rete rifatti (Info/Signal/LAN/Tools/Speed/About), ping continuo con bandierina, Wi-Fi scan, speed test, traceroute/whois/DNS, scan di reti/range personalizzati; VNC: tasto Incolla e scroll a due dita. Fix schermata viola.",
   "mandatory": false,
-  "sha256": "6ff25b75bf1124d09731237cbc068d6e565a62ee01fe8edb426da25b6a0cce5f"
+  "sha256": "980939388e0bca1ade45d8e81802a95c20df37b7c35f14571d2b31d76d947001"
 }
