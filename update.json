@@ -1,8 +1,8 @@
 {
-  "versionCode": 23,
-  "versionName": "0.23",
-  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.23.apk",
-  "notes": "New VPN networks section: configure ZeroTier networks and pick one per server (tunnel wiring next).",
+  "versionCode": 24,
+  "versionName": "0.24",
+  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.24.apk",
+  "notes": "ZeroTier integrato: assegna una rete VPN a un server e Specula la attiva alla connessione, la stacca a fine sessione. + Changelog all'aggiornamento.",
   "mandatory": false,
-  "sha256": "96436dbf07eceb569c83bd211b621b054ae95d42b385ab5284a35ca87c5ab8ad"
+  "sha256": "73d39dca54255b4c1b309fdee4f02a0ccc0f3aaf6166b5bb1f9dcf73ea3c64c9"
 }
