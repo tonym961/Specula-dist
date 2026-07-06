@@ -1,8 +1,8 @@
 {
-  "versionCode": 27,
-  "versionName": "0.27",
-  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.27.apk",
-  "notes": "Strumenti di rete: info IP, scansione LAN (trova Mac/PC VNC/RDP e li aggiungi al volo), ping. Icone server per tipo. 'ZeroTier' scritto giusto.",
+  "versionCode": 28,
+  "versionName": "0.28",
+  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.28.apk",
+  "notes": "Strumenti di rete → UBNT: scopre i dispositivi Ubiquiti in rete (UniFi/EdgeMax/airMAX) e li apri con un tocco.",
   "mandatory": false,
-  "sha256": "f91fe5f0661a3ee266d520b5846b9a9f0b3ac1ca77814e7cdfbd1b2c119ef1e8"
+  "sha256": "f161a64900d4cd80d1ec6660985aa6335025c1380b831dd9199226fb8b43cd16"
 }
