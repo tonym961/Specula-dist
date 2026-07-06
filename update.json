@@ -1,8 +1,8 @@
 {
-  "versionCode": 14,
-  "versionName": "0.14",
-  "apkUrl": "https://github.com/tonym961/Specula-dist/releases/download/v0.14/Specula-0.14.apk",
-  "notes": "Full-screen fix: immersive now sticks after the landscape rotation, with a confirmation toast.",
+  "versionCode": 15,
+  "versionName": "0.15",
+  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.15.apk",
+  "notes": "One clean screen on multi-monitor Macs, smoother updates (request-ahead + buffer reuse), per-type icons.",
   "mandatory": false,
-  "sha256": "1ceab2e67b38499bca2836bc6e4c682e0cec179824b2bc11b84a678a9365eb27"
+  "sha256": "9712a896811b9600dff949b0f2a6ae8f984c98942222361d4a8c8d83f4891a03"
 }
