@@ -1,8 +1,8 @@
 {
-  "versionCode": 20,
-  "versionName": "0.20",
-  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.20.apk",
-  "notes": "New tools: Mac shortcuts, right-click, screenshot to phone, zoom +/-. New Specula app icon. Screenshot now off the UI thread.",
+  "versionCode": 21,
+  "versionName": "0.21",
+  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.21.apk",
+  "notes": "New minimal app icon (Specula eye on deep navy).",
   "mandatory": false,
-  "sha256": "3694fb1d80b747825b76db1b0614afcc25efcf3f7eb2ade9f37006339ee734e5"
+  "sha256": "6ccf8f5396d716cd55f819cdcaa092385c70d7a50e88816a02e2f9d4d08a4270"
 }
