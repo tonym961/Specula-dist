@@ -1,8 +1,8 @@
 {
-  "versionCode": 25,
-  "versionName": "0.25",
-  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.25.apk",
-  "notes": "Scansione QR: aggiungendo una rete ZeroTier puoi inquadrare il QR per inserire il Network ID al volo.",
+  "versionCode": 26,
+  "versionName": "0.26",
+  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.26.apk",
+  "notes": "Reti VPN: 'Connetti (autorizza)' tiene la connessione 60s (mostra l'ID nodo) e poi stacca, per autorizzare il dispositivo su ZeroTier Central.",
   "mandatory": false,
-  "sha256": "1105b6588999d89e1f6bdd689d8dbc969ab3d24ea756056769b4d8d331c0de10"
+  "sha256": "5c6518cab8b269347a967b71c0636d42136282447a59f59bc47a40c0d07f8243"
 }
