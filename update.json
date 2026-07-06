@@ -1,8 +1,8 @@
 {
-  "versionCode": 13,
-  "versionName": "0.13",
-  "apkUrl": "https://github.com/tonym961/Specula-dist/releases/download/v0.13/Specula-0.13.apk",
-  "notes": "Relative mouse mode (RealVNC-style), full-screen forces landscape, redesigned collapsible session bar.",
+  "versionCode": 14,
+  "versionName": "0.14",
+  "apkUrl": "https://github.com/tonym961/Specula-dist/releases/download/v0.14/Specula-0.14.apk",
+  "notes": "Full-screen fix: immersive now sticks after the landscape rotation, with a confirmation toast.",
   "mandatory": false,
-  "sha256": "40a3206c8a1facdf4506dd3f8c122229674f33a5898f0153f26516f6619e4909"
+  "sha256": "1ceab2e67b38499bca2836bc6e4c682e0cec179824b2bc11b84a678a9365eb27"
 }
