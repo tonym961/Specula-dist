@@ -1,8 +1,8 @@
 {
-  "versionCode": 19,
-  "versionName": "0.19",
-  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.19.apk",
-  "notes": "Removed the connection-name label from the session bar so the tools (keyboard included) are reachable in portrait; a small colored dot still shows connection status.",
+  "versionCode": 20,
+  "versionName": "0.20",
+  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.20.apk",
+  "notes": "New tools: Mac shortcuts, right-click, screenshot to phone, zoom +/-. New Specula app icon. Screenshot now off the UI thread.",
   "mandatory": false,
-  "sha256": "216197c0eb880f498b7567907d763a691e8294e48e4b660647c538053179e178"
+  "sha256": "3694fb1d80b747825b76db1b0614afcc25efcf3f7eb2ade9f37006339ee734e5"
 }
