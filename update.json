@@ -1,8 +1,8 @@
 {
-  "versionCode": 26,
-  "versionName": "0.26",
-  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.26.apk",
-  "notes": "Reti VPN: 'Connetti (autorizza)' tiene la connessione 60s (mostra l'ID nodo) e poi stacca, per autorizzare il dispositivo su ZeroTier Central.",
+  "versionCode": 27,
+  "versionName": "0.27",
+  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.27.apk",
+  "notes": "Strumenti di rete: info IP, scansione LAN (trova Mac/PC VNC/RDP e li aggiungi al volo), ping. Icone server per tipo. 'ZeroTier' scritto giusto.",
   "mandatory": false,
-  "sha256": "5c6518cab8b269347a967b71c0636d42136282447a59f59bc47a40c0d07f8243"
+  "sha256": "f91fe5f0661a3ee266d520b5846b9a9f0b3ac1ca77814e7cdfbd1b2c119ef1e8"
 }
