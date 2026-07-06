@@ -1,8 +1,8 @@
 {
-  "versionCode": 30,
-  "versionName": "0.30",
-  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.30.apk",
-  "notes": "Rinominata scheda Ubiquiti; puoi scansionare (LAN e Ubiquiti) anche una sottorete diversa da quella a cui sei connesso.",
+  "versionCode": 31,
+  "versionName": "0.31",
+  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.31.apk",
+  "notes": "Barra di navigazione in basso (Server, Rete, VPN, Impostazioni). Set Inform piu robusto (piu credenziali, doppio invio, verifica).",
   "mandatory": false,
-  "sha256": "807d4810512e5347794aec28243ca0875e972909b7c03e10c5b775ae72f2f0c2"
+  "sha256": "df34334722c523a6d6127c0866c0ce95e0905675d30b6a27b6ffa73c7ee40474"
 }
