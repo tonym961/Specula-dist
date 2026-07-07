@@ -1,8 +1,8 @@
 {
-  "versionCode": 41,
-  "versionName": "0.41",
-  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.41.apk",
-  "notes": "0.41: terminale SSH integrato (stile Termius) — salva i server SSH e collegati; selettore Mac/VNC/RDP/SSH; la scansione LAN riconosce l'SSH.",
+  "versionCode": 42,
+  "versionName": "0.42",
+  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.42.apk",
+  "notes": "Specula update.",
   "mandatory": false,
-  "sha256": "8d8a9f471807637ae031791667682c66489238138c69ed09af79f2398a58b271"
+  "sha256": "5e887c52701e6ada543635bc304a523806f4478de7830b5f97fed4e00be7b24b"
 }
