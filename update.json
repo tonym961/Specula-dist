@@ -1,8 +1,8 @@
 {
-  "versionCode": 37,
-  "versionName": "0.37",
-  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.37.apk",
-  "notes": "0.37: primo pulsante «Home»; sezione unica «Ubiquiti Set-Inform» con lista e predefinito (stellina); scegli quale Set-Inform usare dalla tendina.",
+  "versionCode": 38,
+  "versionName": "0.38",
+  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.38.apk",
+  "notes": "0.38: nuovo server con Mac/VNC/RDP separati; supporto ai server VNC generici; credenziali SSH per ogni Set-Inform.",
   "mandatory": false,
-  "sha256": "e275d3a3762c8881dc93d0220db77482904468d39b7dd1594f516db4b9a71051"
+  "sha256": "c96cb7d412731cb6f36c91cb4c72851c1dc0707b888972c62e2eee679c97390b"
 }
