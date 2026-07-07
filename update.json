@@ -1,8 +1,8 @@
 {
-  "versionCode": 36,
-  "versionName": "0.36",
-  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.36.apk",
-  "notes": "0.36: banner cambio rete, icona nero/giallo, lista controller Set-Inform, Wi-Fi con produttore AP + grafico canali + filtro banda, Esporta/Importa e aggiornamenti nelle Impostazioni.",
+  "versionCode": 37,
+  "versionName": "0.37",
+  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.37.apk",
+  "notes": "0.37: primo pulsante «Home»; sezione unica «Ubiquiti Set-Inform» con lista e predefinito (stellina); scegli quale Set-Inform usare dalla tendina.",
   "mandatory": false,
-  "sha256": "d9af9865aa5b55d5ccaca863f3822f1791b712aa66e6fd8713c22a86fd47345e"
+  "sha256": "e275d3a3762c8881dc93d0220db77482904468d39b7dd1594f516db4b9a71051"
 }
