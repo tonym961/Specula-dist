@@ -1,8 +1,8 @@
 {
-  "versionCode": 35,
-  "versionName": "0.35",
-  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.35.apk",
-  "notes": "0.35: scheda Tools riorganizzata (niente più elementi stretti/sovrapposti, si adatta a ogni schermo); LAN scan più leggibile con host a card.",
+  "versionCode": 36,
+  "versionName": "0.36",
+  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.36.apk",
+  "notes": "0.36: banner cambio rete, icona nero/giallo, lista controller Set-Inform, Wi-Fi con produttore AP + grafico canali + filtro banda, Esporta/Importa e aggiornamenti nelle Impostazioni.",
   "mandatory": false,
-  "sha256": "6a8af9b06f977d30d23c01aba91f4198ce82004602e99e9bfb3ff683baf7e2c8"
+  "sha256": "d9af9865aa5b55d5ccaca863f3822f1791b712aa66e6fd8713c22a86fd47345e"
 }
