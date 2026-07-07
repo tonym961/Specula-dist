@@ -1,8 +1,8 @@
 {
-  "versionCode": 34,
-  "versionName": "0.34",
-  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.34.apk",
-  "notes": "0.34: corretto il crash aprendo gli Strumenti di rete; strumenti ridisegnati Material scuro con barra a 6 schede; grafica gialla in tutta l'app (via il viola).",
+  "versionCode": 35,
+  "versionName": "0.35",
+  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.35.apk",
+  "notes": "0.35: scheda Tools riorganizzata (niente più elementi stretti/sovrapposti, si adatta a ogni schermo); LAN scan più leggibile con host a card.",
   "mandatory": false,
-  "sha256": "156f2e22d7729bbe7f96b13e363b497ddeb55a74fdda1eec4cc373497532cd7c"
+  "sha256": "6a8af9b06f977d30d23c01aba91f4198ce82004602e99e9bfb3ff683baf7e2c8"
 }
