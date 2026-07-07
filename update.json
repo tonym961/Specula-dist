@@ -1,8 +1,8 @@
 {
-  "versionCode": 38,
-  "versionName": "0.38",
-  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.38.apk",
-  "notes": "0.38: nuovo server con Mac/VNC/RDP separati; supporto ai server VNC generici; credenziali SSH per ogni Set-Inform.",
+  "versionCode": 39,
+  "versionName": "0.39",
+  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.39.apk",
+  "notes": "0.39: la Home mostra i tuoi server (tocca per collegarti); le info di rete sono dietro il tasto IP in alto.",
   "mandatory": false,
-  "sha256": "c96cb7d412731cb6f36c91cb4c72851c1dc0707b888972c62e2eee679c97390b"
+  "sha256": "76c9e8eaa08e1d754ea2897d7f1c975c3511c0c3c095b6fcfd112141c0ad8154"
 }
