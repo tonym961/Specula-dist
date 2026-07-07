@@ -1,8 +1,8 @@
 {
-  "versionCode": 39,
-  "versionName": "0.39",
-  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.39.apk",
-  "notes": "0.39: la Home mostra i tuoi server (tocca per collegarti); le info di rete sono dietro il tasto IP in alto.",
+  "versionCode": 40,
+  "versionName": "0.40",
+  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.40.apk",
+  "notes": "0.40: una sola barra in basso (Home/Rete/VPN/Impostazioni); gli strumenti di rete sono schede in alto sotto Rete; tema scuro coerente.",
   "mandatory": false,
-  "sha256": "76c9e8eaa08e1d754ea2897d7f1c975c3511c0c3c095b6fcfd112141c0ad8154"
+  "sha256": "c91ce2e7f739c606cfef5587ccb988f91ae9fb2b5453af3218b83eda269b8640"
 }
