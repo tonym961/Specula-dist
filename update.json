@@ -1,8 +1,8 @@
 {
-  "versionCode": 33,
-  "versionName": "0.33",
-  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.33.apk",
-  "notes": "Net Swiss Army Knife: strumenti di rete rifatti (Info/Signal/LAN/Tools/Speed/About), ping continuo con bandierina, Wi-Fi scan, speed test, traceroute/whois/DNS, scan di reti/range personalizzati; VNC: tasto Incolla e scroll a due dita. Fix schermata viola.",
+  "versionCode": 34,
+  "versionName": "0.34",
+  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.34.apk",
+  "notes": "0.34: corretto il crash aprendo gli Strumenti di rete; strumenti ridisegnati Material scuro con barra a 6 schede; grafica gialla in tutta l'app (via il viola).",
   "mandatory": false,
-  "sha256": "980939388e0bca1ade45d8e81802a95c20df37b7c35f14571d2b31d76d947001"
+  "sha256": "156f2e22d7729bbe7f96b13e363b497ddeb55a74fdda1eec4cc373497532cd7c"
 }
