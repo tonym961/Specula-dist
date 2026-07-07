@@ -1,8 +1,8 @@
 {
-  "versionCode": 45,
-  "versionName": "0.45",
-  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.45.apk",
+  "versionCode": 46,
+  "versionName": "0.46",
+  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.46.apk",
   "notes": "Specula update.",
   "mandatory": false,
-  "sha256": "45c3aad201ff90a4810f85389b30ee04a818c57e966d811350c27cbc7d520b55"
+  "sha256": "1bf2de4a67349c100cee74a3cea60d7b6a4a9235be6def3694426748a456ea46"
 }
