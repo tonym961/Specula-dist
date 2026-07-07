@@ -1,8 +1,8 @@
 {
-  "versionCode": 40,
-  "versionName": "0.40",
-  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.40.apk",
-  "notes": "0.40: una sola barra in basso (Home/Rete/VPN/Impostazioni); gli strumenti di rete sono schede in alto sotto Rete; tema scuro coerente.",
+  "versionCode": 41,
+  "versionName": "0.41",
+  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.41.apk",
+  "notes": "0.41: terminale SSH integrato (stile Termius) — salva i server SSH e collegati; selettore Mac/VNC/RDP/SSH; la scansione LAN riconosce l'SSH.",
   "mandatory": false,
-  "sha256": "c91ce2e7f739c606cfef5587ccb988f91ae9fb2b5453af3218b83eda269b8640"
+  "sha256": "8d8a9f471807637ae031791667682c66489238138c69ed09af79f2398a58b271"
 }
