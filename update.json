@@ -1,8 +1,8 @@
 {
-  "versionCode": 48,
-  "versionName": "0.48",
-  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.48.apk",
-  "notes": "0.48 — I dispositivi Ubiquiti nella scansione sono riconosciuti per tipo (icona per Access Point, Switch, Gateway, Cloud Key, NVR, Camera, Doorbell, LTE, airMAX) con oltre 500 modelli mappati; il pulsante «Ubiquiti» ora filtra solo gli Ubiquiti; campo rete in formato 192.168.1.0/24; nell'adozione una riga spiega che non serve un Set-Inform salvato.",
+  "versionCode": 49,
+  "versionName": "0.49",
+  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.49.apk",
+  "notes": "0.49 — Nuova barra in basso a 4 voci: Home · Wi-Fi · Scansione LAN · Altro. Wi-Fi e Scansione LAN sono ora schermate a sé, e la Scansione LAN non ha più la barra a schede in alto. Tutto il resto (Ping, Traceroute, Porte, Whois, DNS, Speed, SSH, ZeroTier/VPN, Ubiquiti, UniFi, Backup, Impostazioni) è raccolto sotto «Altro», ognuno come schermata separata.",
   "mandatory": false,
-  "sha256": "496efaa5d1f3f585c72b3cdc67dd378b0395f09c907119e6789eea409714380d"
+  "sha256": "924b61b195157a17d78279d5cc49af9dd232f2346ff1d0d96f03f02e81ef1f04"
 }
