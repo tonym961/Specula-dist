@@ -1,8 +1,8 @@
 {
-  "versionCode": 49,
-  "versionName": "0.49",
-  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.49.apk",
-  "notes": "0.49 — Nuova barra in basso a 4 voci: Home · Wi-Fi · Scansione LAN · Altro. Wi-Fi e Scansione LAN sono ora schermate a sé, e la Scansione LAN non ha più la barra a schede in alto. Tutto il resto (Ping, Traceroute, Porte, Whois, DNS, Speed, SSH, ZeroTier/VPN, Ubiquiti, UniFi, Backup, Impostazioni) è raccolto sotto «Altro», ognuno come schermata separata.",
+  "versionCode": 50,
+  "versionName": "0.50",
+  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.50.apk",
+  "notes": "0.50 — Ora puoi modificare i Set-Inform salvati: in Impostazioni → Ubiquiti Set-Inform tocca la riga (o l'icona matita), cambia nome/URL/credenziali e salva. Prima si poteva solo eliminare e ricreare.",
   "mandatory": false,
-  "sha256": "924b61b195157a17d78279d5cc49af9dd232f2346ff1d0d96f03f02e81ef1f04"
+  "sha256": "934fbdb965102c52fb9f1c8f765aa8c10d999b835d608d0f3f130d9730e3b0b5"
 }
