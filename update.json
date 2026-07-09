@@ -1,8 +1,8 @@
 {
-  "versionCode": 47,
-  "versionName": "0.47",
-  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.47.apk",
-  "notes": "0.47 — Nella scansione LAN ora i dispositivi Ubiquiti sono riconosciuti (icona e modello giusti) con la pillola «Adotta»: tocca → Adotta (Set Inform, usa i controller salvati) · Apri SSH · Apri interfaccia web.",
+  "versionCode": 48,
+  "versionName": "0.48",
+  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.48.apk",
+  "notes": "0.48 — I dispositivi Ubiquiti nella scansione sono riconosciuti per tipo (icona per Access Point, Switch, Gateway, Cloud Key, NVR, Camera, Doorbell, LTE, airMAX) con oltre 500 modelli mappati; il pulsante «Ubiquiti» ora filtra solo gli Ubiquiti; campo rete in formato 192.168.1.0/24; nell'adozione una riga spiega che non serve un Set-Inform salvato.",
   "mandatory": false,
-  "sha256": "79161a69cb49efe07f258f4b656494a1ae74f7ac936ab3c0a1475eb943b84143"
+  "sha256": "496efaa5d1f3f585c72b3cdc67dd378b0395f09c907119e6789eea409714380d"
 }
