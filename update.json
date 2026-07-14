@@ -1,8 +1,8 @@
 {
-  "versionCode": 59,
-  "versionName": "0.59",
-  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.59.apk",
-  "notes": "0.59 — RDP: risolta anche qui la tastiera divisa a metà in orizzontale (ora normale, come in VNC).",
+  "versionCode": 60,
+  "versionName": "0.60",
+  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.60.apk",
+  "notes": "0.60 — RDP: zoom con due dita (pinch) e pan. Pizzica per ingrandire, due dita per spostarti da ingrandito. In VNC lo zoom c'era già.",
   "mandatory": false,
-  "sha256": "fe6943f206423fdf8500d786bc64cbcbed840f8b10093c6cae4a2da10fd97ba1"
+  "sha256": "13a14d525eb7aa17595616de59f2e817eb28e05b54566eaf479d62cf1a2ff2e0"
 }
