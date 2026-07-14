@@ -1,8 +1,8 @@
 {
-  "versionCode": 52,
-  "versionName": "0.52",
-  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.52.apk",
-  "notes": "0.52 — RDP: se la libreria nativa non parte, l'app non crasha più: mostra l'errore a schermo (copiabile). Apri RDP e, se non va, copiami il messaggio.",
+  "versionCode": 53,
+  "versionName": "0.53",
+  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.53.apk",
+  "notes": "0.53 — RDP: libreria nativa ricompilata con OpenSSL 3.5.4 stabile (prima una pre-release poteva far chiudere l'app all'avvio). Riprova ad aprire un server RDP e dimmi se ora parte.",
   "mandatory": false,
-  "sha256": "b228e3ecd3e0512367a671d6d0b8c19b08ba25a31b40d2fc2c17377417d0a79b"
+  "sha256": "32b9ea8ad9008de5559cb629b6ca5cf2932646382424b66a200d7f1ab505d872"
 }
