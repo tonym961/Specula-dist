@@ -1,8 +1,8 @@
 {
-  "versionCode": 56,
-  "versionName": "0.56",
-  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.56.apk",
-  "notes": "0.56 — RDP: cattura-crash nativo. Apri un server RDP (si chiude), poi RIAPRILO: ti mostra a schermo la funzione/libreria esatta in cui crasha. Copiami tutto il testo.",
+  "versionCode": 57,
+  "versionName": "0.57",
+  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.57.apk",
+  "notes": "0.57 — RDP: risolto il crash all'avvio della sessione (era una config di build di FreeRDP che su Android abortiva). Ricompilata la libreria: ora tocca un server RDP e dovresti vedere lo schermo!",
   "mandatory": false,
-  "sha256": "8e3afdf634f44d05c23fa12bd19c1898bef4c2e7273ab737e9b35a4871a3d732"
+  "sha256": "a2ceddf92f10c8ef4262365a262c97d96c3e83cd9edc72a6307c4b11e58a12f0"
 }
