@@ -1,8 +1,8 @@
 {
-  "versionCode": 66,
-  "versionName": "0.66",
-  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.66.apk",
-  "notes": "0.66 — Wi-Fi: badge nei colori ufficiali dei produttori con simbolo/iniziali (U Ubiquiti, Apple, F! FRITZ!Box, tp TP-Link, N Netgear, MT MikroTik...), con anello del segnale.",
+  "versionCode": 67,
+  "versionName": "0.67",
+  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.67.apk",
+  "notes": "0.67 — Wi-Fi: i badge mostrano i loghi VERI dei produttori (Ubiquiti, TP-Link, Netgear, FRITZ!Box, MikroTik, Cisco, Aruba, Ruckus, Zyxel, D-Link, Linksys e altri), con l'anello del segnale.",
   "mandatory": false,
-  "sha256": "3b00437565b01d53a17f715bbb99dd442ca50e4a40098c8185bafda6ac08852e"
+  "sha256": "f6dca5940cd1b54d8776311bb7b0ffcce42e9f2546f996b75dde0e02e36fc9f7"
 }
