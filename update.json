@@ -1,8 +1,8 @@
 {
-  "versionCode": 53,
-  "versionName": "0.53",
-  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.53.apk",
-  "notes": "0.53 — RDP: libreria nativa ricompilata con OpenSSL 3.5.4 stabile (prima una pre-release poteva far chiudere l'app all'avvio). Riprova ad aprire un server RDP e dimmi se ora parte.",
+  "versionCode": 54,
+  "versionName": "0.54",
+  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.54.apk",
+  "notes": "0.54 — RDP: aggiunto rilevatore del crash. Apri un server RDP (può ancora chiudersi la prima volta), poi RIAPRILO: ti mostra a schermo in quale libreria/fase è crashato. Copiami quella riga.",
   "mandatory": false,
-  "sha256": "32b9ea8ad9008de5559cb629b6ca5cf2932646382424b66a200d7f1ab505d872"
+  "sha256": "404f039ed7962f0fba97a8d9eb170b117461bcb168d958f516967c813629e0e8"
 }
