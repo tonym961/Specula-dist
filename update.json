@@ -1,8 +1,8 @@
 {
-  "versionCode": 58,
-  "versionName": "0.58",
-  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.58.apk",
-  "notes": "0.58 — RDP: mouse trackpad completo (trascina=muovi, tocca=clic, 2 dita=tasto destro, 2 dita su/giù=scroll, pressione lunga=trascina) + barra tasti (Ctrl+Alt+Canc, Ctrl/Alt a scatto, Esc, Tab, Win, frecce). VNC: risolta la tastiera divisa a metà.",
+  "versionCode": 59,
+  "versionName": "0.59",
+  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.59.apk",
+  "notes": "0.59 — RDP: risolta anche qui la tastiera divisa a metà in orizzontale (ora normale, come in VNC).",
   "mandatory": false,
-  "sha256": "5f3934a14fb4d362d64c2e0afd89f47da13e5774a94045cedc3d16a2c2acd8eb"
+  "sha256": "fe6943f206423fdf8500d786bc64cbcbed840f8b10093c6cae4a2da10fd97ba1"
 }
