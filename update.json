@@ -1,8 +1,8 @@
 {
-  "versionCode": 65,
-  "versionName": "0.65",
-  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.65.apk",
-  "notes": "0.65 — Wi-Fi: il badge di ogni rete mostra il logo del produttore riconosciuto (U di Ubiquiti, Apple) o l'iniziale, al posto del numero di canale; il canale si sposta a destra sotto dBm e banda.",
+  "versionCode": 66,
+  "versionName": "0.66",
+  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.66.apk",
+  "notes": "0.66 — Wi-Fi: badge nei colori ufficiali dei produttori con simbolo/iniziali (U Ubiquiti, Apple, F! FRITZ!Box, tp TP-Link, N Netgear, MT MikroTik...), con anello del segnale.",
   "mandatory": false,
-  "sha256": "70321b6294fe2e166f4347d909a24cb19342b2df1a5ac36f4ee7553b6493faca"
+  "sha256": "3b00437565b01d53a17f715bbb99dd442ca50e4a40098c8185bafda6ac08852e"
 }
