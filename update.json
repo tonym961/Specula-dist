@@ -1,8 +1,8 @@
 {
-  "versionCode": 57,
-  "versionName": "0.57",
-  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.57.apk",
-  "notes": "0.57 — RDP: risolto il crash all'avvio della sessione (era una config di build di FreeRDP che su Android abortiva). Ricompilata la libreria: ora tocca un server RDP e dovresti vedere lo schermo!",
+  "versionCode": 58,
+  "versionName": "0.58",
+  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.58.apk",
+  "notes": "0.58 — RDP: mouse trackpad completo (trascina=muovi, tocca=clic, 2 dita=tasto destro, 2 dita su/giù=scroll, pressione lunga=trascina) + barra tasti (Ctrl+Alt+Canc, Ctrl/Alt a scatto, Esc, Tab, Win, frecce). VNC: risolta la tastiera divisa a metà.",
   "mandatory": false,
-  "sha256": "a2ceddf92f10c8ef4262365a262c97d96c3e83cd9edc72a6307c4b11e58a12f0"
+  "sha256": "5f3934a14fb4d362d64c2e0afd89f47da13e5774a94045cedc3d16a2c2acd8eb"
 }
