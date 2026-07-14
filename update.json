@@ -1,8 +1,8 @@
 {
-  "versionCode": 64,
-  "versionName": "0.64",
-  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.64.apk",
-  "notes": "0.64 — VNC e RDP: la barra strumenti ricorda anche la posizione in altezza (oltre al lato), anche riaprendo l'app.",
+  "versionCode": 65,
+  "versionName": "0.65",
+  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.65.apk",
+  "notes": "0.65 — Wi-Fi: il badge di ogni rete mostra il logo del produttore riconosciuto (U di Ubiquiti, Apple) o l'iniziale, al posto del numero di canale; il canale si sposta a destra sotto dBm e banda.",
   "mandatory": false,
-  "sha256": "0fef691129dd9f08544238f395c5cf4c770925f69fe69ee091d19d8a2766c78c"
+  "sha256": "70321b6294fe2e166f4347d909a24cb19342b2df1a5ac36f4ee7553b6493faca"
 }
