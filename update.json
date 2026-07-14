@@ -1,8 +1,8 @@
 {
-  "versionCode": 50,
-  "versionName": "0.50",
-  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.50.apk",
-  "notes": "0.50 — Ora puoi modificare i Set-Inform salvati: in Impostazioni → Ubiquiti Set-Inform tocca la riga (o l'icona matita), cambia nome/URL/credenziali e salva. Prima si poteva solo eliminare e ricreare.",
+  "versionCode": 51,
+  "versionName": "0.51",
+  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.51.apk",
+  "notes": "0.51 — RDP diventa una sessione desktop VERA: integrata la libreria FreeRDP con supporto NLA/TLS (funziona contro Windows di default). Tocca un server RDP e vedi lo schermo, con mouse (tocco = clic, trascina, tasto destro) e tastiera. Prima release sperimentale: fammi sapere com'e dal vivo.",
   "mandatory": false,
-  "sha256": "934fbdb965102c52fb9f1c8f765aa8c10d999b835d608d0f3f130d9730e3b0b5"
+  "sha256": "c73952e21e7e875e3b8b7777ed38969d43d0a40a8e87ba525fa69ec7e2b17500"
 }
