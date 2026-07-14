@@ -1,8 +1,8 @@
 {
-  "versionCode": 63,
-  "versionName": "0.63",
-  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.63.apk",
-  "notes": "0.63 — VNC e RDP: la barra strumenti si aggancia al bordo più vicino quando la trascini, e ricorda il lato anche riaprendo l'app.",
+  "versionCode": 64,
+  "versionName": "0.64",
+  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.64.apk",
+  "notes": "0.64 — VNC e RDP: la barra strumenti ricorda anche la posizione in altezza (oltre al lato), anche riaprendo l'app.",
   "mandatory": false,
-  "sha256": "4ee02f73d2af9539058756c2892272606d10d24fc7e126bdae42004254a36e70"
+  "sha256": "0fef691129dd9f08544238f395c5cf4c770925f69fe69ee091d19d8a2766c78c"
 }
