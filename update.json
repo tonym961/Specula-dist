@@ -1,8 +1,8 @@
 {
-  "versionCode": 67,
-  "versionName": "0.67",
-  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.67.apk",
-  "notes": "0.67 — Wi-Fi: i badge mostrano i loghi VERI dei produttori (Ubiquiti, TP-Link, Netgear, FRITZ!Box, MikroTik, Cisco, Aruba, Ruckus, Zyxel, D-Link, Linksys e altri), con l'anello del segnale.",
+  "versionCode": 68,
+  "versionName": "0.68",
+  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.68.apk",
+  "notes": "0.68 — Wi-Fi: aggiunti i loghi di Google, Samsung e Intel (oltre a quelli gia' presenti).",
   "mandatory": false,
-  "sha256": "f6dca5940cd1b54d8776311bb7b0ffcce42e9f2546f996b75dde0e02e36fc9f7"
+  "sha256": "40d6eb0693967c0837643a24632c90b7e2a019520c79592628a2c3dc47e946c5"
 }
