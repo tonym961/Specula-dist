@@ -1,8 +1,8 @@
 {
-  "versionCode": 61,
-  "versionName": "0.61",
-  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.61.apk",
-  "notes": "0.61 — RDP: la barra strumenti si può nascondere (tocca il chevron a sinistra della barra). In VNC c'era già.",
+  "versionCode": 62,
+  "versionName": "0.62",
+  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.62.apk",
+  "notes": "0.62 — VNC e RDP: la maniglia della barra strumenti si può trascinare per spostare la barra (es. da destra a sinistra). Un tocco la apre/chiude.",
   "mandatory": false,
-  "sha256": "c2578b47b8fc31c0005059a35f4ae5ff9ecac3039031d27bf8ab381b88047f32"
+  "sha256": "7af331ce800ab7b215bf6cf2f0c3f740c6fd614469293bffdf5bd19b8c573a39"
 }
