@@ -1,8 +1,8 @@
 {
-  "versionCode": 68,
-  "versionName": "0.68",
-  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.68.apk",
-  "notes": "0.68 — Wi-Fi: aggiunti i loghi di Google, Samsung e Intel (oltre a quelli gia' presenti).",
+  "versionCode": 69,
+  "versionName": "0.69",
+  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.69.apk",
+  "notes": "0.69 — Wi-Fi: aggiunto anche il logo Realtek. Ora tutti i brand principali hanno il loro logo.",
   "mandatory": false,
-  "sha256": "40d6eb0693967c0837643a24632c90b7e2a019520c79592628a2c3dc47e946c5"
+  "sha256": "99e96a9ecb4ec3840f32e8349c884ddd02d24caa21c6dd454b858680a4b3f050"
 }
