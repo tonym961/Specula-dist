@@ -1,8 +1,8 @@
 {
-  "versionCode": 54,
-  "versionName": "0.54",
-  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.54.apk",
-  "notes": "0.54 — RDP: aggiunto rilevatore del crash. Apri un server RDP (può ancora chiudersi la prima volta), poi RIAPRILO: ti mostra a schermo in quale libreria/fase è crashato. Copiami quella riga.",
+  "versionCode": 55,
+  "versionName": "0.55",
+  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.55.apk",
+  "notes": "0.55 — Controllo aggiornamenti a ogni avvio: appena esce una nuova versione, l'app te lo propone all'apertura (prima solo ogni 6 ore).",
   "mandatory": false,
-  "sha256": "404f039ed7962f0fba97a8d9eb170b117461bcb168d958f516967c813629e0e8"
+  "sha256": "1fa534bcb16950e3bf97fb50c87ccf21d6ef9b0d9da46542b8a69d3b1e6d890e"
 }
