@@ -1,8 +1,8 @@
 {
-  "versionCode": 51,
-  "versionName": "0.51",
-  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.51.apk",
-  "notes": "0.51 — RDP diventa una sessione desktop VERA: integrata la libreria FreeRDP con supporto NLA/TLS (funziona contro Windows di default). Tocca un server RDP e vedi lo schermo, con mouse (tocco = clic, trascina, tasto destro) e tastiera. Prima release sperimentale: fammi sapere com'e dal vivo.",
+  "versionCode": 52,
+  "versionName": "0.52",
+  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.52.apk",
+  "notes": "0.52 — RDP: se la libreria nativa non parte, l'app non crasha più: mostra l'errore a schermo (copiabile). Apri RDP e, se non va, copiami il messaggio.",
   "mandatory": false,
-  "sha256": "c73952e21e7e875e3b8b7777ed38969d43d0a40a8e87ba525fa69ec7e2b17500"
+  "sha256": "b228e3ecd3e0512367a671d6d0b8c19b08ba25a31b40d2fc2c17377417d0a79b"
 }
