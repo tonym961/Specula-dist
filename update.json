@@ -1,8 +1,8 @@
 {
-  "versionCode": 69,
-  "versionName": "0.69",
-  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.69.apk",
-  "notes": "0.69 — Wi-Fi: aggiunto anche il logo Realtek. Ora tutti i brand principali hanno il loro logo.",
+  "versionCode": 70,
+  "versionName": "0.70",
+  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.70.apk",
+  "notes": "0.70 — RDP: se un server non e' raggiungibile puoi annullare subito (il pulsante Disconnetti e' visibile fin dall'inizio).",
   "mandatory": false,
-  "sha256": "99e96a9ecb4ec3840f32e8349c884ddd02d24caa21c6dd454b858680a4b3f050"
+  "sha256": "67582e71948ba154f69b4ab8301cd4784c7b8d24e5c24f4d8e6ce2bfb38ce06b"
 }
