@@ -1,8 +1,8 @@
 {
-  "versionCode": 71,
-  "versionName": "0.71",
-  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.71.apk",
-  "notes": "0.71 — RDP: risolto il pulsante Disconnetti che non rispondeva durante la connessione (ora chiude/annulla subito).",
+  "versionCode": 72,
+  "versionName": "0.72",
+  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.72.apk",
+  "notes": "0.72 — RDP: se un server e' spento/irraggiungibile la connessione fallisce da sola dopo ~10 secondi con 'Host non raggiungibile', invece di restare appesa.",
   "mandatory": false,
-  "sha256": "ea8ca6c81eb32dfc241d3fb2d48cb7d935d4020a0d57b5f0bcb274dbae07a8bb"
+  "sha256": "6e6c6fff63b7c35d9bbdb9d24f7fd550e9711d02e12317e9aecb50c1dffd577d"
 }
