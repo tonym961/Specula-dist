@@ -1,8 +1,8 @@
 {
-  "versionCode": 72,
-  "versionName": "0.72",
-  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.72.apk",
-  "notes": "0.72 — RDP: se un server e' spento/irraggiungibile la connessione fallisce da sola dopo ~10 secondi con 'Host non raggiungibile', invece di restare appesa.",
+  "versionCode": 73,
+  "versionName": "0.73",
+  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.73.apk",
+  "notes": "0.73 — UniFi ben visibili nello scan (in cima, bordo giallo, conteggio) + adozione SSH keyboard-interactive come HostiFi (anche terminale SSH)",
   "mandatory": false,
-  "sha256": "6e6c6fff63b7c35d9bbdb9d24f7fd550e9711d02e12317e9aecb50c1dffd577d"
+  "sha256": "7ccb1159588707b342a35d3d156b8c2f91bd3e49ba1089568ad9dcdb4bbaf4c1"
 }
