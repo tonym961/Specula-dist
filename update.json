@@ -1,8 +1,8 @@
 {
-  "versionCode": 73,
-  "versionName": "0.73",
-  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.73.apk",
-  "notes": "0.73 — UniFi ben visibili nello scan (in cima, bordo giallo, conteggio) + adozione SSH keyboard-interactive come HostiFi (anche terminale SSH)",
+  "versionCode": 74,
+  "versionName": "0.74",
+  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.74.apk",
+  "notes": "0.74 — la scansione Ubiquiti ora trova anche AP e switch (probe unicast a ogni host, non solo broadcast)",
   "mandatory": false,
-  "sha256": "7ccb1159588707b342a35d3d156b8c2f91bd3e49ba1089568ad9dcdb4bbaf4c1"
+  "sha256": "4e912285292aa42d5ec8f21a0dd17f6d23c4b027ea0160de676a94f796e11945"
 }
