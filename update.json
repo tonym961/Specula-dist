@@ -1,8 +1,8 @@
 {
-  "versionCode": 75,
-  "versionName": "0.75",
-  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.75.apk",
-  "notes": "0.75 — tasto Gestisci (SSH/Adotta/web/aggiungi) su ogni host, terminale SSH in un tocco, adozione da qualsiasi host, auto-refresh subnet al cambio rete",
+  "versionCode": 76,
+  "versionName": "0.76",
+  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.76.apk",
+  "notes": "0.76 — tasto Aggiorna subnet nel campo rete della scansione LAN",
   "mandatory": false,
-  "sha256": "9f96455c34a06c1bdc913372b94d73eba15919902ee5afd3e1c2a4bde9348154"
+  "sha256": "995bbf0be94f115d2b8dcca30392e91ad3b546739a99e72f72a80b71c72e73ba"
 }
