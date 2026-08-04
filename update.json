@@ -1,8 +1,8 @@
 {
-  "versionCode": 76,
-  "versionName": "0.76",
-  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.76.apk",
-  "notes": "0.76 — tasto Aggiorna subnet nel campo rete della scansione LAN",
+  "versionCode": 77,
+  "versionName": "0.77",
+  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.77.apk",
+  "notes": "0.77 — scoperta mDNS/Bonjour nella scansione LAN (Mac Screen Sharing/VNC, SSH, RDP trovati e nominati da soli)",
   "mandatory": false,
-  "sha256": "995bbf0be94f115d2b8dcca30392e91ad3b546739a99e72f72a80b71c72e73ba"
+  "sha256": "e0e7dbff5d2d6e86d1b2b3c53c6fd2c5aa6bab2962172cc066e9a57da5c950b4"
 }
