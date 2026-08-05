@@ -1,8 +1,8 @@
 {
-  "versionCode": 77,
-  "versionName": "0.77",
-  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.77.apk",
-  "notes": "0.77 — scoperta mDNS/Bonjour nella scansione LAN (Mac Screen Sharing/VNC, SSH, RDP trovati e nominati da soli)",
+  "versionCode": 78,
+  "versionName": "0.78",
+  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.78.apk",
+  "notes": "0.78 — SSH pro: barra tasti ricca + Incolla, Riconnetti/Copia tutto in toolbar, autenticazione con chiave privata SSH",
   "mandatory": false,
-  "sha256": "e0e7dbff5d2d6e86d1b2b3c53c6fd2c5aa6bab2962172cc066e9a57da5c950b4"
+  "sha256": "b7dbfcae85b4fcc0fc0280b3f35c3d6b629b8f213f6f4323be4255c5043ce2c5"
 }
