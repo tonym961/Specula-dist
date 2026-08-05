@@ -1,8 +1,8 @@
 {
-  "versionCode": 78,
-  "versionName": "0.78",
-  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.78.apk",
-  "notes": "0.78 — SSH pro: barra tasti ricca + Incolla, Riconnetti/Copia tutto in toolbar, autenticazione con chiave privata SSH",
+  "versionCode": 79,
+  "versionName": "0.79",
+  "apkUrl": "https://raw.githubusercontent.com/tonym961/Specula-dist/main/apks/Specula-0.79.apk",
+  "notes": "0.79 SPERIMENTALE — RDP con accelerazione hardware H.264 (Android MediaCodec) + pipeline RDPGFX; molto piu fluido su ZeroTier/4G. Rollback pronto.",
   "mandatory": false,
-  "sha256": "b7dbfcae85b4fcc0fc0280b3f35c3d6b629b8f213f6f4323be4255c5043ce2c5"
+  "sha256": "374f64e08965036cb51c2895f23a8eeca3a673d3545855c18a4a03c10e2b6f61"
 }
